@@ -65,6 +65,7 @@ img {
   width: 50%;
 }
 .email {
+  display: inline-block;
   font-size: 16px;
   color: white;
 }
