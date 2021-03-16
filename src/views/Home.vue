@@ -4,6 +4,12 @@
     <div class="textContainer">
       <br />
       <br />
+      <a href="https://www.instagram.com/thecommunityhotrodproject/"
+        >Instagram</a
+      >&nbsp;&nbsp;&nbsp;&nbsp;<a
+        href="https://www.facebook.com/kevin.haeberle.3/"
+        >Facebook</a
+      >&nbsp;&nbsp;&nbsp;&nbsp;haeberleshotrodservice@gmail.com
       <div class="text">
         <div class="text-title">OUR MISSION STATEMENT</div>
         <br />
