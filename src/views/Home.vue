@@ -6,10 +6,10 @@
       <br />
       <a href="https://www.instagram.com/thecommunityhotrodproject/"
         >Instagram</a
-      >&nbsp;&nbsp;&nbsp;&nbsp;<a
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
         href="https://www.facebook.com/kevin.haeberle.3/"
         >Facebook</a
-      >&nbsp;&nbsp;&nbsp;&nbsp;haeberleshotrodservice@gmail.com
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;haeberleshotrodservice@gmail.com
       <div class="text">
         <div class="text-title">OUR MISSION STATEMENT</div>
         <br />
@@ -49,6 +49,14 @@ body {
   margin: 0px;
   background-color: #3e3e3e;
   text-align: center;
+}
+a {
+  font-size: 16px;
+  color: white;
+}
+a:visited {
+  font-size: 16px;
+  color: rgb(192, 192, 192);
 }
 img {
   width: 50%;
