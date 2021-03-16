@@ -1,6 +1,6 @@
 {
-  "name": "aws-eb-vue-node-routing",
-  "version": "0.1.0",
+  "name": "community-hotrod-project",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "./node_modules/.bin/webpack",
