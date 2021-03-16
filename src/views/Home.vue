@@ -13,6 +13,7 @@
       >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;haeberleshotrodservice@gmail.com
       <br />
       <br />
+      <br />
       <div class="text">
         <div class="text-title">OUR MISSION STATEMENT</div>
         <br />
@@ -27,6 +28,8 @@
         our community and world today. From rust and dust to solid well thought
         out original designs our job is to inspire. Welcome to our family...
       </div>
+      <br />
+      <br />
       <br />
       Website under construction.
     </div>
