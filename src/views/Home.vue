@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <img src="public/images/logo.jpg" />
-    <div class="textContainer">
+    <div class="text-container">
       <br />
       <br />
       <a href="https://www.instagram.com/thecommunityhotrodproject/"
@@ -66,9 +66,6 @@ img {
 .text-container {
   font-size: 16px;
   color: white;
-  width: 100%;
-  text-align: center;
-  font-family: "Fira Sans Condensed", sans-serif;
 }
 .text-title {
   font-size: 26px;
