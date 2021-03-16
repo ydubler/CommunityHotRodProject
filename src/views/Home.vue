@@ -4,6 +4,7 @@
     <div class="text-container">
       <br />
       <br />
+      <br />
       <a href="https://www.instagram.com/thecommunityhotrodproject/"
         >Instagram</a
       >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
@@ -26,9 +27,9 @@
         our community and world today. From rust and dust to solid well thought
         out original designs our job is to inspire. Welcome to our family...
       </div>
+      <br />
+      Website under construction.
     </div>
-    <br />
-    Website under construction.
   </div>
 </template>
 
