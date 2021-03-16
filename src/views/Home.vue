@@ -9,8 +9,7 @@
       >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
         href="https://www.facebook.com/TheCommunityHotRodProject/"
         >Facebook</a
-      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <div class="email">haeberleshotrodservice@gmail.com</div>
+      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;haeberleshotrodservice@gmail.com
       <br />
       <br />
       <div class="text">
@@ -64,12 +63,9 @@ a:visited {
 img {
   width: 50%;
 }
-.email {
-  display: inline-block;
+.text-container {
   font-size: 16px;
   color: white;
-}
-.text-container {
   width: 100%;
   text-align: center;
   font-family: "Fira Sans Condensed", sans-serif;
