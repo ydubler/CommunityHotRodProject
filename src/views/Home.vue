@@ -5,12 +5,14 @@
       <br />
       <br />
       <br />
-      <a href="https://www.instagram.com/thecommunityhotrodproject/"
-        >Instagram</a
-      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-        href="https://www.facebook.com/TheCommunityHotRodProject/"
-        >Facebook</a
-      >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheCommunityHotRodProject@outlook.com
+      <div class="text-margin">
+        <a href="https://www.instagram.com/thecommunityhotrodproject/"
+          >Instagram</a
+        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+          href="https://www.facebook.com/TheCommunityHotRodProject/"
+          >Facebook</a
+        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheCommunityHotRodProject@outlook.com
+      </div>
       <br />
       <br />
       <br />
@@ -83,5 +85,9 @@ img {
   width: 70%;
   font-size: 22px;
   color: white;
+}
+.text-margin {
+  margin-left: 30px;
+  margin-right: 30px;
 }
 </style>
