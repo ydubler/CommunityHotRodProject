@@ -8,10 +8,10 @@
       <div class="text-margin">
         <a href="https://www.instagram.com/thecommunityhotrodproject/"
           >Instagram</a
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-          href="https://www.facebook.com/TheCommunityHotRodProject/"
+        ><br /><a href="https://www.facebook.com/TheCommunityHotRodProject/"
           >Facebook</a
-        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheCommunityHotRodProject@outlook.com
+        >
+        <br />TheCommunityHotRodProject@outlook.com
       </div>
       <br />
       <br />
