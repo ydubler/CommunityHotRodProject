@@ -33,7 +33,7 @@
       <br />
       <br />
       <br />
-      Website under construction.
+      Website under construction!
     </div>
   </div>
 </template>
